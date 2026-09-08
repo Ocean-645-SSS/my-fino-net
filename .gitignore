@@ -1,0 +1,23 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environments and notebook state
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Local experiment outputs
+*.pth
+*.pt
+checkpoints/
+runs/
+
+# Locally downloaded FAILURE data
+failnet_dataset/
+failnet_dataset.zip
+
+# Editor settings
+.idea/
+.vscode/
