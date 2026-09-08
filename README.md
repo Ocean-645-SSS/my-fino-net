@@ -25,7 +25,6 @@ FINO-Net（**F**ailure detect**I**on with multimodal se**N**sor fus**O**n）以�
 .
 ├── annotation/                 # 各操作类别的标签文件
 ├── assets/                     # 项目图标与数据集操作示例 GIF
-├── failnet_dataset/            # 本地数据样例：RGB、深度、音频与标注
 ├── src/
 │   ├── convlstm.py             # ConvLSTM 实现
 │   ├── train_autodl_0.py       # 当前推荐的训练脚本
